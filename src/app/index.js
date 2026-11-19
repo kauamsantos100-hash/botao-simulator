@@ -7,8 +7,8 @@
  
 */
 
-import React, { Component } from 'react';
-import { View, Text, Image, StyleSheet, TouchableOpacity } from 'react-native';
+import { Component } from 'react';
+import { Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 // Imagem do botão (salve o arquivo em assets/botao.png na raiz do projeto).
 // Caminho relativo a partir de src/app/index.js

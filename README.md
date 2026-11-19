@@ -12,7 +12,6 @@ O aplicativo possui uma interface simples e interativa, onde o usuário pode pre
 
 - Contador de cliques.
 - Botão que aumenta de tamanho a cada clique.
-- Mudança aleatória de cor ou aparência do botão.
 - Interface simples e intuitiva.
 - Interação dinâmica com o usuário.
 
@@ -24,7 +23,7 @@ O aplicativo possui uma interface simples e interativa, onde o usuário pode pre
 
 ##  Demonstração
 
-O aplicativo apresenta um botão interativo que modifica seu tamanho e aparência conforme o usuário realiza cliques.
+O aplicativo apresenta um botão interativo que modifica seu tamanho conforme o usuário realiza cliques.
 
 ##  Como executar o projeto
 
